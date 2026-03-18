@@ -3,6 +3,8 @@
 
 3Dビューポート上に、カスタマイズ可能でクリック操作ができる水平ツールバー（HUD）を表示するBlenderアドオンです。
 オブジェクト/編集モード、トランスフォーム座標系、スナップオプション、オートマージ、および「選択物のみ（選択不可を除外）」の切り替えに素早くアクセスできます。
+<img width="1150" height="732" alt="image" src="https://github.com/user-attachments/assets/31008cde-729e-4ce3-8c9e-82d61b7d5c12" />
+
 
 ## ✨ 主な機能
 
@@ -50,6 +52,8 @@
 # Info Gizmo: Snap / AutoMerge HUD (v2.0.0)
 
 A Blender add-on that displays a highly customizable, interactive, and clickable horizontal toolbar (HUD) directly in the 3D Viewport. It provides quick access to Object/Edit Modes, Transform Orientations, Snapping options, AutoMerge, and the "Only Selected" (Exclude Non-Selectable) toggle.
+<img width="1150" height="732" alt="image" src="https://github.com/user-attachments/assets/2ffd83e5-8b39-4477-8ac8-95dd93bbd940" />
+
 
 ## ✨ Key Features
 
