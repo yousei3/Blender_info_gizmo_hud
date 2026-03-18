@@ -25,6 +25,7 @@
 5. **3D View: --Info Gizmo: Snap / AutoMerge HUD--** のチェックボックスをオンにして有効化します。
 
 ## 🚀 使い方
+<img width="426" height="891" alt="image" src="https://github.com/user-attachments/assets/f144521b-8327-4607-a61a-21b5933bc603" />
 
 1. 3Dビューポートを開きます。
 2. `N` キーを押してサイドバーを開き、**Gizmo HUD** タブに移動します。
@@ -74,6 +75,7 @@ A Blender add-on that displays a highly customizable, interactive, and clickable
 5. Check the box to enable **3D View: --Info Gizmo: Snap / AutoMerge HUD--**.
 
 ## 🚀 How to Use
+<img width="427" height="839" alt="image" src="https://github.com/user-attachments/assets/6457190b-7fec-4227-aa82-f4673da19578" />
 
 1. Open the 3D Viewport.
 2. Press `N` to open the Sidebar and navigate to the **Gizmo HUD** tab.
